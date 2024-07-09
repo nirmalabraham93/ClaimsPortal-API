@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Works\\.NET Workspace\\ClaimsPortalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB15EC-5A65-4255-8DEA-F724BBDC796C}|ClaimsPortalAPI\\ClaimsPortalAPI.csproj|d:\\my works\\.net workspace\\claimsportalapi\\claimsportalapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB15EC-5A65-4255-8DEA-F724BBDC796C}|ClaimsPortalAPI\\ClaimsPortalAPI.csproj|solutionrelative:claimsportalapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB15EC-5A65-4255-8DEA-F724BBDC796C}|ClaimsPortalAPI\\ClaimsPortalAPI.csproj|d:\\my works\\.net workspace\\claimsportalapi\\claimsportalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB15EC-5A65-4255-8DEA-F724BBDC796C}|ClaimsPortalAPI\\ClaimsPortalAPI.csproj|solutionrelative:claimsportalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB15EC-5A65-4255-8DEA-F724BBDC796C}|ClaimsPortalAPI\\ClaimsPortalAPI.csproj|d:\\my works\\.net workspace\\claimsportalapi\\claimsportalapi\\claimsportalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84FB15EC-5A65-4255-8DEA-F724BBDC796C}|ClaimsPortalAPI\\ClaimsPortalAPI.csproj|solutionrelative:claimsportalapi\\claimsportalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB15EC-5A65-4255-8DEA-F724BBDC796C}|ClaimsPortalAPI\\ClaimsPortalAPI.csproj|d:\\my works\\.net workspace\\claimsportalapi\\claimsportalapi\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB15EC-5A65-4255-8DEA-F724BBDC796C}|ClaimsPortalAPI\\ClaimsPortalAPI.csproj|solutionrelative:claimsportalapi\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB15EC-5A65-4255-8DEA-F724BBDC796C}|ClaimsPortalAPI\\ClaimsPortalAPI.csproj|d:\\my works\\.net workspace\\claimsportalapi\\claimsportalapi\\models\\claimsportaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB15EC-5A65-4255-8DEA-F724BBDC796C}|ClaimsPortalAPI\\ClaimsPortalAPI.csproj|solutionrelative:claimsportalapi\\models\\claimsportaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB15EC-5A65-4255-8DEA-F724BBDC796C}|ClaimsPortalAPI\\ClaimsPortalAPI.csproj|d:\\my works\\.net workspace\\claimsportalapi\\claimsportalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84FB15EC-5A65-4255-8DEA-F724BBDC796C}|ClaimsPortalAPI\\ClaimsPortalAPI.csproj|solutionrelative:claimsportalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB15EC-5A65-4255-8DEA-F724BBDC796C}|ClaimsPortalAPI\\ClaimsPortalAPI.csproj|d:\\my works\\.net workspace\\claimsportalapi\\claimsportalapi\\models\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB15EC-5A65-4255-8DEA-F724BBDC796C}|ClaimsPortalAPI\\ClaimsPortalAPI.csproj|solutionrelative:claimsportalapi\\models\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB15EC-5A65-4255-8DEA-F724BBDC796C}|ClaimsPortalAPI\\ClaimsPortalAPI.csproj|d:\\my works\\.net workspace\\claimsportalapi\\claimsportalapi\\models\\policydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB15EC-5A65-4255-8DEA-F724BBDC796C}|ClaimsPortalAPI\\ClaimsPortalAPI.csproj|solutionrelative:claimsportalapi\\models\\policydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClaimsPortalAPI",
+              "DocumentMoniker": "D:\\My Works\\.NET Workspace\\ClaimsPortalAPI\\ClaimsPortalAPI\\ClaimsPortalAPI.csproj",
+              "RelativeDocumentMoniker": "ClaimsPortalAPI\\ClaimsPortalAPI.csproj",
+              "ToolTip": "D:\\My Works\\.NET Workspace\\ClaimsPortalAPI\\ClaimsPortalAPI\\ClaimsPortalAPI.csproj",
+              "RelativeToolTip": "ClaimsPortalAPI\\ClaimsPortalAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-06T20:31:31.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\My Works\\.NET Workspace\\ClaimsPortalAPI\\ClaimsPortalAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ClaimsPortalAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\My Works\\.NET Workspace\\ClaimsPortalAPI\\ClaimsPortalAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ClaimsPortalAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:26:11.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\My Works\\.NET Workspace\\ClaimsPortalAPI\\ClaimsPortalAPI\\Models\\TokenService.cs",
+              "RelativeDocumentMoniker": "ClaimsPortalAPI\\Models\\TokenService.cs",
+              "ToolTip": "D:\\My Works\\.NET Workspace\\ClaimsPortalAPI\\ClaimsPortalAPI\\Models\\TokenService.cs",
+              "RelativeToolTip": "ClaimsPortalAPI\\Models\\TokenService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:23:39.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\My Works\\.NET Workspace\\ClaimsPortalAPI\\ClaimsPortalAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ClaimsPortalAPI\\appsettings.json",
+              "ToolTip": "D:\\My Works\\.NET Workspace\\ClaimsPortalAPI\\ClaimsPortalAPI\\appsettings.json",
+              "RelativeToolTip": "ClaimsPortalAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-15T01:18:26.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PolicyDto.cs",
+              "DocumentMoniker": "D:\\My Works\\.NET Workspace\\ClaimsPortalAPI\\ClaimsPortalAPI\\Models\\PolicyDto.cs",
+              "RelativeDocumentMoniker": "ClaimsPortalAPI\\Models\\PolicyDto.cs",
+              "ToolTip": "D:\\My Works\\.NET Workspace\\ClaimsPortalAPI\\ClaimsPortalAPI\\Models\\PolicyDto.cs",
+              "RelativeToolTip": "ClaimsPortalAPI\\Models\\PolicyDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T23:57:00.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClaimsPortalDbContext.cs",
+              "DocumentMoniker": "D:\\My Works\\.NET Workspace\\ClaimsPortalAPI\\ClaimsPortalAPI\\Models\\ClaimsPortalDbContext.cs",
+              "RelativeDocumentMoniker": "ClaimsPortalAPI\\Models\\ClaimsPortalDbContext.cs",
+              "ToolTip": "D:\\My Works\\.NET Workspace\\ClaimsPortalAPI\\ClaimsPortalAPI\\Models\\ClaimsPortalDbContext.cs",
+              "RelativeToolTip": "ClaimsPortalAPI\\Models\\ClaimsPortalDbContext.cs",
+              "ViewState": "AQIAAAoAAACAZmZmZmYswBkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T21:54:20.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PolicyController.cs",
+              "DocumentMoniker": "D:\\My Works\\.NET Workspace\\ClaimsPortalAPI\\ClaimsPortalAPI\\Controllers\\PolicyController.cs",
+              "RelativeDocumentMoniker": "ClaimsPortalAPI\\Controllers\\PolicyController.cs",
+              "ToolTip": "D:\\My Works\\.NET Workspace\\ClaimsPortalAPI\\ClaimsPortalAPI\\Controllers\\PolicyController.cs",
+              "RelativeToolTip": "ClaimsPortalAPI\\Controllers\\PolicyController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwB0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T20:20:52.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Works\\.NET Workspace\\ClaimsPortalAPI\\ClaimsPortalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ClaimsPortalAPI\\Program.cs",
+              "ToolTip": "D:\\My Works\\.NET Workspace\\ClaimsPortalAPI\\ClaimsPortalAPI\\Program.cs",
+              "RelativeToolTip": "ClaimsPortalAPI\\Program.cs",
+              "ViewState": "AQIAAGIAAAAAMTMzMzMbwF8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T20:15:38.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

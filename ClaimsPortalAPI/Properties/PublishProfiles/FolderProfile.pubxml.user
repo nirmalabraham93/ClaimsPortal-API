@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\My Works\Publish Workspace\API</_PublishTargetUrl>
+    <History>True|2024-07-06T20:37:29.9632495Z;True|2024-07-06T16:31:46.0967476-04:00;True|2024-07-06T15:53:41.0440542-04:00;True|2024-07-06T15:50:11.8581373-04:00;True|2024-07-06T13:33:01.6138324-04:00;True|2024-07-06T13:19:10.5705876-04:00;True|2024-07-06T13:18:27.5320448-04:00;True|2024-07-06T12:51:21.8988793-04:00;True|2024-07-06T12:24:48.4911966-04:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
